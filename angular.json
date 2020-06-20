@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "retro-manager"
+    }
+  },
+  "defaultProject": "retro-manager",
+  "cli": {
+    "analytics": "f76f6ab0-0192-4e8b-8d63-788140e50935"
+  }
 }
